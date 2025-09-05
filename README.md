@@ -61,7 +61,7 @@ Excel – Data source preparation
 DAX – KPI and measure calculations
 
 # 📷 Dashboard Preview
-(Insert your Page 1 & Page 2 screenshots here)
+
 
 🚀 How to Use
 Download the .pbix file from this repository.
